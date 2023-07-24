@@ -1,20 +1,22 @@
 # Start dev
 
+```bash
 npm i && npm start 
+```
 
 # build
 
+```bash
 npm run build
+```
 
 
 # Edit styles 
-
-Edit App.css
+    -> Edit App.css
     -> color palette is defined
 
 # Edit App Logic
-
-All app logic lives in App.tsx
+    -> All app logic lives in App.tsx
     -> Strict mode doesn't work due to react-beatiful-dnd
 
 # comments
